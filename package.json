@@ -1,0 +1,22 @@
+{
+  "name": "react_vislova",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "mkdir build",
+    "say": "echo Hello!",
+    "delete": "rm -rf build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebHeroSchool/React_Vislova.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebHeroSchool/React_Vislova/issues"
+  },
+  "homepage": "https://github.com/WebHeroSchool/React_Vislova#readme"
+}
